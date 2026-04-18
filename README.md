@@ -20,7 +20,9 @@ For development, the project is created using Visual Studio Code (VS Code). This
 The design of the platform is simple and clean, focusing on usability and clarity. The navigation system allows users to move easily between pages, and the responsive layout ensures compatibility with different devices. This project does not require a backend, making it lightweight and easy to run in any browser.
 In conclusion, the E-Learning Platform UI is a practical project that demonstrates the use of frontend technologies to build an interactive educational interface. It helps developers understand concepts like multi-page navigation, dynamic content loading, and user interaction. This project can be further enhanced by adding features like user authentication, quizzes, certificates, and backend integration, making it a strong foundation for real-world e-learning systems.
 
+#OUTPUT
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a79f6fe2-785c-4f52-afed-38439176bfe3"/>
 
 
 
